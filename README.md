@@ -25,3 +25,6 @@ git commit --amend --no-edit
 git checkout ハッシュ
 git switch - // 元の状態に戻る
 ```
+
+# 14 
+other.md
