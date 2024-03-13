@@ -28,3 +28,10 @@ git switch - // 元の状態に戻る
 
 # 14 
 other.md
+
+# 15
+```
+git commit -a -m "メッセージ"
+git commit -am "メッセージ"
+```
+- untracked file は対応しない `-a`
