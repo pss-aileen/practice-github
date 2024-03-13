@@ -19,3 +19,9 @@ git commit --amend -m "メッセージ"
 git commit --amend --no-edit
 ```
 - 1つ前以上のコミットを修正したい場合は基本しないほうがいい（混乱をふせぐため）
+
+# 13 過去の内容を確認する
+```
+git checkout ハッシュ
+git switch - // 元の状態に戻る
+```
