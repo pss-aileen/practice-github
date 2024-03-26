@@ -5,6 +5,9 @@
 <img src="https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat">
 [![Static Badge](https://img.shields.io/badge/first_contributions-%F0%9F%94%B0-white?style=flat)](https://github.com/topics/first-contributions)
 
+![img-readme-header](https://github.com/pss-aileen/practice-github/assets/140990100/2418efaa-750b-4a1d-bd2f-ae3afc09d35b)
+
+
 # First Contributions JA
 
 > 完全日本語のチュートリアルで、OSS 活動を始める 🚀
